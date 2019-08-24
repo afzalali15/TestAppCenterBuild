@@ -7,7 +7,7 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Label
-            Text="Welcome to AppCenter Automatic Build, 240819"
+            Text="Welcome to AppCenter Automatic Build, 240819--Afzal"
             HorizontalOptions="Center"
             VerticalOptions="CenterAndExpand" />
     </StackLayout>
